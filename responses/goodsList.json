@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Notebook",
+    "price": 2000,
+    "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/8571e312855b905a5c503487333994d6/cfc961b75b316485dccc16b87712bfc840a89cd11e52d52d47ef49969bc3ccf7.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mouse",
+    "price": 20,
+    "img": "https://killprice24.ru/files/products/x23.200x200.png?012e471eba30e4076a77df2afd4c2850"
+  },
+  {
+    "id": 3,
+    "title": "Keyboard",
+    "price": 200,
+    "img": "https://www.xbook.ru/upload/iblock/6e5af2ab74fee87bde197f35d528bed0/1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Gamepad",
+    "price": 50,
+    "img": "https://100pristavok.ru/upload/iblock/08a/08a62a7f290412cb438d9c2f459100fe.jpg"
+  }
+]
